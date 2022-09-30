@@ -1,0 +1,3 @@
+read var1;
+total := var1 + 1;
+write total;
